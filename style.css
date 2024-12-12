@@ -12,9 +12,16 @@ h1{
 h3{
     color:salmon;
 }
+h4{
+    color:green;
+}
 img{
     height: 300px;
     width: 200px;
+}
+a{
+    text-decoration: none;
+    color:red;
 }
 #bname{
     color:darkblue;
