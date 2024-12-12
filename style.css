@@ -1,0 +1,28 @@
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+h1{
+    text-align: center;
+    font-family:monospace;
+    color:crimson;
+    background-color: aquamarine;
+    padding:1%;
+}
+h3{
+    color:salmon;
+}
+img{
+    height: 300px;
+    width: 200px;
+}
+#bname{
+    color:darkblue;
+    font-size: large;
+}
+#des{
+    color:darkorange;
+}
+#wname{
+    color:red;
+}
